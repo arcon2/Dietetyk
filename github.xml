@@ -1,4 +1,9 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="1f43bbbb-21c8-4a21-9231-53ef562496e7" name="arcon2">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
     <option name="LOGIN" value="arcon2" />
     <option name="HOST" value="https://github.com/" />
